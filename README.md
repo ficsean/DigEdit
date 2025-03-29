@@ -11,3 +11,4 @@ How to run the app:
 - Go to Run -> Edit Configurations, click the + and add Application (link it to MainApp)  
 - Paste this into the VM options: --module-path C:/javafx-sdk-21.0.6/lib --add-modules javafx.controls,javafx.fxml (use your JavaFX SDK path)  
 - Click the green play button and run  
+![Example](example.PNG)
