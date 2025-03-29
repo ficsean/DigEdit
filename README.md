@@ -1,3 +1,3 @@
 # DigEdit
-![Prompt](prompt.png)
-![Description](description.png)
+![Prompt](prompt.PNG)
+![Description](description.PNG)
